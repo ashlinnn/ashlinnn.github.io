@@ -436,7 +436,8 @@ dd { margin: 0 0 0 20px; }
 }
 .pagination .current,
 .pagination .current:hover {
-   background-color: #11ABB0;
+/*    background-color: #11ABB0; */
+   background-color: #A5EAF8; /*COLOR CHANGE*/
    color: #fff;
 }
 .pagination .inactive,
@@ -464,7 +465,8 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 16px/30px 'opensans-bold', sans-serif;
-   background: #11ABB0;
+/*    background: #11ABB0; */
+   background: #A5EAF8; /*COLOR CHANGE*/
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
