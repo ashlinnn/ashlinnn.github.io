@@ -139,6 +139,8 @@ header .scrolldown a:hover { color: #A5EAF8; }
    position: fixed;
    left: 0;
    top: 0;
+   /*background-color: #000;
+   opacity: 0.6;*/
 }
 .opaque { background-color: #333; }
 
@@ -179,7 +181,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-/* ul#nav li.current a { color: #F06000; } COLOR CHANGE*/
+ /*ul#nav li.current a { color: #F06000; } COLOR CHANGE*/
 ul#nav li.current a { color: #A5EAF8; }
  
 
